@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palakmishra06&label=Profile%20views&color=0e75b6&style=flat" alt="palakmishra06" /> </p>
 
-- 🔭 I’m currently working on **Weathervue**
+- 🔭 I’m currently working on **Event Planner**
 
 - 🌱 I’m currently learning **CSS,Javascript,Java**
 
