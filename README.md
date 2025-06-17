@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript,Java,ReactJs,Angular,SpringBoot,MYSQL**
 
-- 👨‍💻 All of my projects are available at [[https://PalakMishra06/PalakMishra06/]]
+- 👨‍💻 All of my projects are available at [[[https://PalakMishra06/PalakMishra06/]]](https://palakmishra06.github.io/Palak.github.io/](https://palakmishra06.github.io/Palak.github.io/))
 
 - 📫 How to reach me **palakmishra632001@gmail.com**
 
