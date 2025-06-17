@@ -1,4 +1,4 @@
-<h1 align="center">Hii... 👋, I'm Palak Mishra</h1>
+<h1 align="center">Hi 👋, I'm Palak Mishra</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palakmishra06&label=Profile%20views&color=0e75b6&style=flat" alt="palakmishra06" /> </p>
@@ -47,6 +47,16 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+---
+
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=palakmishra06&show_icons=true&theme=react&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=palakmishra06&theme=react&hide_border=true" width="45%" />
+</p>
+
 ---
 
 
