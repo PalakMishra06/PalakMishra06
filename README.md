@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [[https://palakmishra06.github.io/Palak.github.io/]]
 
-- 📫 How to reach me **palakmishra06@gmail.com**
+- 📫 How to reach me **palakmishra632001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
